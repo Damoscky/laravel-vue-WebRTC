@@ -6,8 +6,9 @@ A video chat application with laravel and vuejs based on WebRTC
 
 ## Live Demo
 
-You can find the live demo [here](http://damilola-video-chat.herokuapp.com/video_chat)
-Then go to 
+You can check the demo [here](http://damilola-video-chat.herokuapp.com/video_chat)
+
+
 ## Prerequiste
 
 <ul>
